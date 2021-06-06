@@ -113,6 +113,7 @@ h1{
     border-right: dotted 5px #000000;
     transition: 2ms;
     text-align: center;
+    font-family: fontAwesome;
 }
 .Home-btn:hover, input[name="send"]:hover{
     background: #864df0;
@@ -207,6 +208,7 @@ footer p{
 }
 footer ul li a span{
     font-size: 2.2rem;
+    font-family: fontAwesome;
 }
 footer ul li a span:hover{
    color: #864df0;
